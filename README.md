@@ -4,7 +4,7 @@ The main addition is a new folder: `src/lambda`. Each JavaScript file in there w
 
 As an example, we've included a small `src/lambda/hello.js` function, which will be deployed to `/.netlify/functions/hello`.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/create-react-app-lambda)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/create-react-app-lambda) [![Greenkeeper badge](https://badges.greenkeeper.io/logikinc/create-react-app-lambda.svg)](https://greenkeeper.io/)
 
 ## Babel/webpack compilation
 
